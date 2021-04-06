@@ -11,6 +11,6 @@ cd indo.crack
 ls
 python2 indo.py
 ````
-<img src="https://github.com/Mark-Zuck/Mark-Zuck/blob/main/Ss'an/20210404_125212.jpg" width="640" title="Menu" alt="Menu">
+<img src="https://github.com/Mark-Zuck/indo.crack/blob/main/s/S.jpg" width="640" title="Menu" alt="Menu"> 
 #
 Sebenar nya sih khusus crack akun indonesia tapi bisa juga akun luar karna gw tambahin 3 pw luar :v
