@@ -6,6 +6,7 @@ pkg install python2
 pip2 install requests
 pip2 install bs4
 pip2 install mechanize
+rm -rf indo.crack
 git clone https://github.com/Mark-Zuck/indo.crack
 cd indo.crack
 ls
