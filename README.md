@@ -1,4 +1,6 @@
 ## Install
+### Login
+- Token
 ````
 pkg update && pkg upgrade
 pkg install git
