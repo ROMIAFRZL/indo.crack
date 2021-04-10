@@ -1,7 +1,7 @@
 <h1 align="center">
 • indo.crack •
 
-# Install
+## Install
 ````
 pkg update && pkg upgrade
 pkg install git
