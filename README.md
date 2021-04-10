@@ -26,7 +26,12 @@ python2 indo.so
 #
 <img src="https://github.com/Mark-Zuck/indo.crack/blob/main/s/S.jpg" width="640" title="Menu" alt="Menu">
 
-#### contact me
+#
+Jika tidak bisa menggunakan script ini atau terjadi bug pada script silahkan hubungi saya
+
+If you can't use this script or there is a bug in the script, please contact me
+
+👉
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/100002461344178)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282371648186?text=Asalamualaikum+bang)
 #
