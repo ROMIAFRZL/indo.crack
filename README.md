@@ -10,7 +10,7 @@ rm -rf indo.crack
 git clone https://github.com/Mark-Zuck/indo.crack
 cd indo.crack
 ls
-python2 indo.py
+python2 indo.so
 ````
 #
 <img src="https://github.com/Mark-Zuck/indo.crack/blob/main/s/S.jpg" width="640" title="Menu" alt="Menu">
