@@ -15,9 +15,9 @@ cd indo.crack
 ls
 python2 indo.so
 ````
-``
+```
 Login Using Token 
-``
+```
 #
 <img src="https://github.com/Mark-Zuck/indo.crack/blob/main/s/S.jpg" width="640" title="Menu" alt="Menu">
 
