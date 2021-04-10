@@ -1,11 +1,9 @@
-<h1 align="center">
-• indo.crack •
-
 #
 Note :
 
 Jika ingin login ke termux di wajibkan menggunakan akun tumbal/cadangan. Saya tidak bertanggung jawab jika ada hal yg terjadi kepada akun anda. Dan satu lagi gunakan script ini dengan bijak !
 
+If you want to log into Termux you are required to use a backup account. I am not responsible if something happens to your account. And one more thing, use this script wisely!
 #
 ````
 Login Using Token
