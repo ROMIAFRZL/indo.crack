@@ -1,7 +1,11 @@
 <h1 align="center">
 • indo.crack •
 
-## Install
+#
+````
+Login Using Token
+````
+## install script
 ````
 pkg update && pkg upgrade
 pkg install git
