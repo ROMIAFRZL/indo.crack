@@ -1,4 +1,7 @@
-## Install
+<h1 align="center">
+• indo.crack •
+
+# Install
 ````
 pkg update && pkg upgrade
 pkg install git
@@ -13,8 +16,11 @@ ls
 python2 indo.so
 
 ````
-## Login
-- Token
+<h1 align="center">
+Login
+
+### Token
+
 #
 <img src="https://github.com/Mark-Zuck/indo.crack/blob/main/s/S.jpg" width="640" title="Menu" alt="Menu">
 
