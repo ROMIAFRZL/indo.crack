@@ -18,9 +18,9 @@ pip2 install mechanize
 rm -rf indo.crack
 ````
 ## run script
-```
+``
 git clone https://github.com/Mark-Zuck/indo.crack
-```
+``
 ````
 cd indo.crack
 ls
