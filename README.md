@@ -5,7 +5,7 @@ If you want to log into Termux you are required to use a backup account. I am no
 ````
 - Login Using Token
 - Token sangat awet 
-  tidak gampang invalid
+  tidak mudah invalid
 ````
 ## install script
 ````
