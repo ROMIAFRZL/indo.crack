@@ -1,3 +1,6 @@
+````
+Author : ROMI AFRIZAL
+````
 #### Note :
 Jika ingin login ke termux di wajibkan menggunakan akun tumbal/cadangan. Saya tidak bertanggung jawab jika ada hal yg terjadi kepada akun anda. Dan satu lagi gunakan script ini dengan bijak !
 
@@ -5,9 +8,7 @@ If you want to log into Termux you are required to use a backup account. I am no
 #
 #### Ingin recode? Izin dulu. Hargai lah pembuat nya bro!
 #### Want to recode? Permit first. Appreciate the maker bro!
-````
-Author : ROMI AFRIZAL
-````
+#
 ````
 - Login Using Token
 - Token sangat awet 
