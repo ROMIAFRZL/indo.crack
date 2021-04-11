@@ -3,7 +3,9 @@ Jika ingin login ke termux di wajibkan menggunakan akun tumbal/cadangan. Saya ti
 
 If you want to log into Termux you are required to use a backup account. I am not responsible if something happens to your account. And one more thing, use this script wisely!
 ````
-Login Using Token
+- Login Using Token
+- Token sangat awet 
+  tidak gampang invalid
 ````
 ## install script
 ````
