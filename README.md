@@ -34,11 +34,11 @@ Jika tidak bisa menggunakan script ini atau terjadi bug pada script silahkan hub
 
 If you can't use this script or there is a bug in the script, please contact me
 
-👉
+#### contact me
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/100002461344178)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282371648186?text=Asalamualaikum+bang)
 #
-### Join group facebook
+#### Join group facebook
 [![](https://img.shields.io/badge/Groups-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/310605552656196)
 #
 Sebenar nya sih khusus crack akun indonesia tapi bisa juga akun luar karna gw tambahin 3 pw luar :v
