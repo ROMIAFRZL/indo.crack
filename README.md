@@ -7,7 +7,7 @@ If you want to log into Termux you are required to use a backup account. I am no
 ````
 Login Using Token
 ````
-## install script
+### install script
 ````
 pkg update && pkg upgrade
 pkg install git
@@ -16,11 +16,11 @@ pip2 install requests
 pip2 install bs4
 pip2 install mechanize
 ````
-## install git
+### install git
 ```
 git clone https://github.com/Mark-Zuck/indo.crack
 ```
-## run script
+### run script
 ````
 cd indo.crack
 ls
