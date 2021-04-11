@@ -17,10 +17,11 @@ pip2 install bs4
 pip2 install mechanize
 rm -rf indo.crack
 ````
-## run script
-``
+## install git
+```
 git clone https://github.com/Mark-Zuck/indo.crack
-``
+```
+## run script
 ````
 cd indo.crack
 ls
