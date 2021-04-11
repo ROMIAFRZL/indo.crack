@@ -5,7 +5,9 @@ If you want to log into Termux you are required to use a backup account. I am no
 #
 #### Ingin recode? Izin dulu. Hargai lah pembuat nya bro!
 #### Want to recode? Permit first. Appreciate the maker bro!
-#
+````
+Author : ROMI AFRIZAL
+````
 ````
 - Login Using Token
 - Token sangat awet 
