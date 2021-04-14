@@ -14,21 +14,24 @@ If you want to log into Termux you are required to use a backup account. I am no
 - Token sangat awet 
   tidak mudah invalid
 ````
-# install script
+## installation
+````php
+$ pkg update && pkg upgrade
+$ pkg install git
+$ pkg install python2
+$ pip2 install requests
+$ pip2 install bs4
+$ pip2 install mechanize
 ````
-pkg update && pkg upgrade
-pkg install git
-pkg install python2
-pip2 install requests
-pip2 install bs4
-pip2 install mechanize
-````
-# install git
-````
-git clone https://github.com/Mark-Zuck/indo.crack
-cd indo.crack
-ls
-python2 indo.so
+## install git
+```php
+$ git clone https://github.com/Mark-Zuck/indo.crack
+```
+## Usage
+````php
+$ cd indo.crack
+$ ls
+$ python2 indo.so
 ````
 #
 <img src="https://github.com/Mark-Zuck/indo.crack/blob/main/s/S.jpg" width="640" title="Menu" alt="Menu">
