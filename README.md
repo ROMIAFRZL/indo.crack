@@ -1,5 +1,5 @@
 ````
-Author : ROMI AFRIZAL
+Coded by : ROMI AFRIZAL
 ````
 #### Note :
 Jika ingin login ke termux di wajibkan menggunakan akun tumbal/cadangan. Saya tidak bertanggung jawab jika ada hal yg terjadi kepada akun anda. Dan satu lagi gunakan script ini dengan bijak !
