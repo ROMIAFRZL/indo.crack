@@ -24,9 +24,9 @@ $ pip2 install bs4
 $ pip2 install mechanize
 ````
 ## install git
-```php
+````php
 $ git clone https://github.com/Mark-Zuck/indo.crack
-```
+````
 ## Usage
 ````php
 $ cd indo.crack
